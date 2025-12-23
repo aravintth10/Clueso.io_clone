@@ -1,0 +1,187 @@
+{
+  "sessionId": "session_1766407395735_f2g5q58",
+  "startTime": 1766407395794,
+  "endTime": 1766407415032,
+  "url": "https://www.clueso.io/",
+  "viewport": {
+    "width": 770,
+    "height": 632
+  },
+  "events": [
+    {
+      "timestamp": 759,
+      "type": "click",
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "framer-rs8vzr"
+        ],
+        "text": "Shape the StoryFine-Tune Your Video ScriptEffortlessly add, remove, or tweak sentences and pronunciations to craft your ideal script.Customize Your Video FlowQuickly insert or delete video clips, images, or text slides for complete creative control.Enhance the AudioGive Your Video a Professional VoiceSelect from dozens of natural-sounding AI voices with diverse accents, tones, and personalities.Set the Perfect Mood with MusicSelect a soundtrack from our extensive library, or upload your own music to match your unique style.Polish the VisualsMake It PopDraw instant attention to any part of your video.Mask with BlursBlur unwanted or sensitive details from your video.Resize for any Aspect RatioEasily resize your videos for demos, shorts, laptops, or mobile screens.Brand-AidDrop in your fonts, colors, and logos once, and every video stays perfectly on-brand.Tweak the DocumentationArticles Written Your WaySet your guidelines once, and Clueso AI generates articles exactly how you prefer.Built-In Screenshot EditorZoom, crop, blur, or annotate screenshots directly in your article.GIF ItConvert any screenshot to an animated GIF with just a click.Article Co-pilotGive instructions via chat, and Clueso AI edits your article instantly.",
+        "selector": "div.framer-rs8vzr",
+        "bbox": {
+          "x": 177,
+          "y": -3755,
+          "width": 400,
+          "height": 4353
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 2160,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 12806
+        }
+      }
+    },
+    {
+      "timestamp": 7118,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 7530
+        }
+      }
+    },
+    {
+      "timestamp": 8226,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 7932
+        }
+      }
+    },
+    {
+      "timestamp": 9211,
+      "type": "click",
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-ItNej.framer-eHTOP:nth-of-type(2) > main.framer-hzvvtr > div.framer-1myyjf6:nth-of-type(8) > div.framer-150td8y:nth-of-type(2) > div.ssr-variant.hidden-xtk7jc > div.framer-9mtza2-container > div.framer-ijmBJ.framer-1di85ws > div.framer-jpg2wm-container > section > fieldset.framer--carousel-controls > button:nth-of-type(2) > img",
+        "bbox": {
+          "x": 515,
+          "y": 367,
+          "width": 36,
+          "height": 36
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 10463,
+      "type": "click",
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-ItNej.framer-eHTOP:nth-of-type(2) > main.framer-hzvvtr > div.framer-1myyjf6:nth-of-type(8) > div.framer-150td8y:nth-of-type(2) > div.ssr-variant.hidden-xtk7jc > div.framer-9mtza2-container > div.framer-ijmBJ.framer-1di85ws > div.framer-jpg2wm-container > section > fieldset.framer--carousel-controls > button:nth-of-type(2) > img",
+        "bbox": {
+          "x": 515,
+          "y": 367,
+          "width": 36,
+          "height": 36
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 11685,
+      "type": "click",
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-ItNej.framer-eHTOP:nth-of-type(2) > main.framer-hzvvtr > div.framer-1myyjf6:nth-of-type(8) > div.framer-150td8y:nth-of-type(2) > div.ssr-variant.hidden-xtk7jc > div.framer-9mtza2-container > div.framer-ijmBJ.framer-1di85ws > div.framer-jpg2wm-container > section > fieldset.framer--carousel-controls > button:nth-of-type(2) > img",
+        "bbox": {
+          "x": 515,
+          "y": 367,
+          "width": 36,
+          "height": 36
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 12774,
+      "type": "click",
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-ItNej.framer-eHTOP:nth-of-type(2) > main.framer-hzvvtr > div.framer-1myyjf6:nth-of-type(8) > div.framer-150td8y:nth-of-type(2) > div.ssr-variant.hidden-xtk7jc > div.framer-9mtza2-container > div.framer-ijmBJ.framer-1di85ws > div.framer-jpg2wm-container > section > fieldset.framer--carousel-controls > button:nth-of-type(2) > img",
+        "bbox": {
+          "x": 515,
+          "y": 367,
+          "width": 36,
+          "height": 36
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    }
+  ],
+  "videoPath": null,
+  "audioPath": null,
+  "processedAt": "2025-12-22T12:43:35.087Z"
+}

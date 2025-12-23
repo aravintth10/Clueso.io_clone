@@ -1,0 +1,42 @@
+{
+  "sessionId": "session_1766404267841_tjy1y94",
+  "startTime": 1766404267866,
+  "endTime": 1766404284782,
+  "url": "https://www.clueso.io/",
+  "viewport": {
+    "width": 770,
+    "height": 632
+  },
+  "events": [
+    {
+      "timestamp": 2182,
+      "type": "click",
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "framer-g2fwcv"
+        ],
+        "text": null,
+        "selector": "div.framer-g2fwcv",
+        "bbox": {
+          "x": 0,
+          "y": 72,
+          "width": 755,
+          "height": 737
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    }
+  ],
+  "videoPath": null,
+  "audioPath": null,
+  "processedAt": "2025-12-22T11:51:24.793Z"
+}

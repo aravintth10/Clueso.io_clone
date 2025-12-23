@@ -1,0 +1,254 @@
+{
+  "sessionId": "session_1766467990569_wkz4onp",
+  "startTime": 1766467990617,
+  "endTime": 1766468013870,
+  "url": "https://www.clueso.io/",
+  "viewport": {
+    "width": 770,
+    "height": 632
+  },
+  "events": [
+    {
+      "timestamp": 862,
+      "type": "click",
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "framer-hw1flz"
+        ],
+        "text": "CRAFTED WITH AIMajor video edits, automated.Perfect Video ScriptsAI removes filler words and rewrites your script clearly and concisely, perfectly matching your brand voice.Lifelike AI VoiceoversYour recorded audio is swapped with AI voiceovers that sound impressively professional and realistic.Smart Auto-ZoomsAI automatically zooms into key actions, highlighting exactly what viewers need to see.Beautiful CaptionsInstantly engage your viewers with eye-catching, AI-generated captions.Auto-Generated SOPs & How-TosClear, step-by-step documentation magically created from your videos.Branded Video TemplatesKeep your videos consistently on brand with themed intros, outros, and backgrounds.",
+        "selector": "div.framer-hw1flz",
+        "bbox": {
+          "x": 0,
+          "y": -91,
+          "width": 755,
+          "height": 2223
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 5863,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 4328
+        }
+      }
+    },
+    {
+      "timestamp": 8889,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 5003.33349609375
+        }
+      }
+    },
+    {
+      "timestamp": 9424,
+      "type": "click",
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "framer-ucpVf",
+          "framer-iVauY",
+          "framer-11m7muc",
+          "framer-v-11m7muc",
+          "hover"
+        ],
+        "text": "Spanish",
+        "selector": "div.framer-ucpVf.framer-iVauY.framer-11m7muc.framer-v-11m7muc.hover",
+        "bbox": {
+          "x": 303,
+          "y": 343,
+          "width": 94,
+          "height": 32
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 10903,
+      "type": "click",
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "framer-ucpVf",
+          "framer-iVauY",
+          "framer-11m7muc",
+          "framer-v-11m7muc",
+          "hover"
+        ],
+        "text": "German",
+        "selector": "div.framer-ucpVf.framer-iVauY.framer-11m7muc.framer-v-11m7muc.hover",
+        "bbox": {
+          "x": 413,
+          "y": 343,
+          "width": 93,
+          "height": 32
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 12599,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 5319.33349609375
+        }
+      }
+    },
+    {
+      "timestamp": 13165,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 5643.33349609375
+        }
+      }
+    },
+    {
+      "timestamp": 16883,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 8051.33349609375
+        }
+      }
+    },
+    {
+      "timestamp": 17746,
+      "type": "click",
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-ItNej.framer-eHTOP:nth-of-type(2) > main.framer-hzvvtr > div.framer-1myyjf6:nth-of-type(8) > div.framer-150td8y:nth-of-type(2) > div.ssr-variant.hidden-xtk7jc > div.framer-9mtza2-container > div.framer-ijmBJ.framer-1di85ws > div.framer-jpg2wm-container > section > fieldset.framer--carousel-controls > button:nth-of-type(2) > img",
+        "bbox": {
+          "x": 515,
+          "y": 267,
+          "width": 36,
+          "height": 36
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 18378,
+      "type": "click",
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-ItNej.framer-eHTOP:nth-of-type(2) > main.framer-hzvvtr > div.framer-1myyjf6:nth-of-type(8) > div.framer-150td8y:nth-of-type(2) > div.ssr-variant.hidden-xtk7jc > div.framer-9mtza2-container > div.framer-ijmBJ.framer-1di85ws > div.framer-jpg2wm-container > section > fieldset.framer--carousel-controls > button:nth-of-type(2) > img",
+        "bbox": {
+          "x": 515,
+          "y": 267,
+          "width": 36,
+          "height": 36
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 18602,
+      "type": "click",
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-ItNej.framer-eHTOP:nth-of-type(2) > main.framer-hzvvtr > div.framer-1myyjf6:nth-of-type(8) > div.framer-150td8y:nth-of-type(2) > div.ssr-variant.hidden-xtk7jc > div.framer-9mtza2-container > div.framer-ijmBJ.framer-1di85ws > div.framer-jpg2wm-container > section > fieldset.framer--carousel-controls > button:nth-of-type(2) > img",
+        "bbox": {
+          "x": 515,
+          "y": 267,
+          "width": 36,
+          "height": 36
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    }
+  ],
+  "videoPath": null,
+  "audioPath": null,
+  "processedAt": "2025-12-23T05:33:33.908Z"
+}

@@ -1,0 +1,88 @@
+{
+  "sessionId": "session_1766404728161_njvex9x",
+  "startTime": 1766404728193,
+  "endTime": 1766404744047,
+  "url": "https://www.clueso.io/",
+  "viewport": {
+    "width": 1280,
+    "height": 632
+  },
+  "events": [
+    {
+      "timestamp": 1619,
+      "type": "click",
+      "target": {
+        "tag": "H1",
+        "id": null,
+        "classes": [
+          "framer-text",
+          "framer-styles-preset-16clslw"
+        ],
+        "text": "Product videos in minutes with AI",
+        "selector": "h1.framer-text.framer-styles-preset-16clslw",
+        "bbox": {
+          "x": 40,
+          "y": 192,
+          "width": 860,
+          "height": 158
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 1280,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 2758,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 1280,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 281.3333435058594
+        }
+      }
+    },
+    {
+      "timestamp": 3448,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 1280,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 573.3333129882812
+        }
+      }
+    },
+    {
+      "timestamp": 10638,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 1280,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 7369.33349609375
+        }
+      }
+    }
+  ],
+  "videoPath": null,
+  "audioPath": null,
+  "processedAt": "2025-12-22T11:59:04.056Z"
+}

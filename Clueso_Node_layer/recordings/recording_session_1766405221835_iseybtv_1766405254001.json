@@ -1,0 +1,358 @@
+{
+  "sessionId": "session_1766405221835_iseybtv",
+  "startTime": 1766405221877,
+  "endTime": 1766405253985,
+  "url": "https://www.clueso.io/",
+  "viewport": {
+    "width": 770,
+    "height": 632
+  },
+  "events": [
+    {
+      "timestamp": 1482,
+      "type": "click",
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "framer-jKiX4",
+          "framer-s8L53",
+          "framer-o43L3",
+          "framer-7V2A8",
+          "framer-rzsE0",
+          "framer-kGWxq",
+          "framer-iVauY",
+          "framer-1we4p21",
+          "framer-v-1bbmzhr"
+        ],
+        "text": "Frequently Asked Questions  What is Clueso?Clueso is an AI platform that transforms raw screen recordings into polished product videos and step-by-step documentation in minutes.  How does Clueso keep my data secure?Clueso is SOC 2 Type II and ISO 27001 certified. All data is securely stored on our AWS cloud, and we follow industry best practices for data privacy and protection.  What export formats does Clueso support?You can export videos in the MP4 or GIF formats and help articles as Rich Text, Markdown, or HTML. You can also share content via embed codes or direct view-only links.  Can I collaborate with my team on Clueso?Yes! You can invite team members to your Clueso workspace and collaborate with them.  Where can I see more customer reviews of Clueso?We’ve been selected as Grid Leader and High Performer on G2 and you can read our G2 reviews here. You can also check out some of our case studies and other reviews here.  Can I try Clueso before purchasing?Absolutely! We offer a 7-day free trial so you can explore all features before making a decision.  What kind of support do you offer?We provide in-app chat, email support, and priority support via a dedicated Slack or Teams channel for enterprise plans. Onboarding and training support is also offered on enterprise plans.   Who is Clueso for?Clueso is built for customer education, product, L&D, product marketing, sales, IT, and internal enablement teams at companies looking to scale video and documentation creation efficiently.Start makingbeautiful videosTransform rough screen recordings into stunning videos & documentation.Begin Now      ProductPricingVideoDocumentationTranslateAI VoiceoversSlides to VideoChangelogResourcesBlogHelp CenterCustomersTutorialsAffiliate ProgramCareers at CluesoVideo glossaryNewFAQsSitemapFree ToolsVideo Caption GeneratorVideo Subtitle GeneratorVideo TranslatorAdd AI Voiceover to VideoPDF to Video ConverterVideo to GIF ConverterCompareClueso vs CamtasiaClueso vs LoomClueso vs SynthesiaClueso vs DescriptClueso vs Scribe Clueso vs GuiddeClueso vs VyondClueso vs TangoClueso vs HeyGenClueso vs VeedBuyer's GuideBest Screen Recording SoftwareBest Screen Capture SoftwareBest Documentation SoftwareBest Product Walkthrough SoftwareBest SOP Creation SoftwareBest Training Video SoftwareBest Onboarding SoftwareBest Video Editing SoftwareBest Learning Management Systems© 2025 Desklamp, Inc. All rights reservedPrivacy PolicyTerms of Service2810 N Church St, Wilmington, DE 19802, USA",
+        "selector": "div.framer-jKiX4.framer-s8L53.framer-o43L3.framer-7V2A8.framer-rzsE0.framer-kGWxq.framer-iVauY.framer-1we4p21.framer-v-1bbmzhr",
+        "bbox": {
+          "x": 0,
+          "y": -1361,
+          "width": 755,
+          "height": 2550
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 3822,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 16010.6669921875
+        }
+      }
+    },
+    {
+      "timestamp": 5359,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 15768.6669921875
+        }
+      }
+    },
+    {
+      "timestamp": 5977,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 15644
+        }
+      }
+    },
+    {
+      "timestamp": 6641,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 15384.6669921875
+        }
+      }
+    },
+    {
+      "timestamp": 7303,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 15260.6669921875
+        }
+      }
+    },
+    {
+      "timestamp": 8530,
+      "type": "click",
+      "target": {
+        "tag": "svg",
+        "id": null,
+        "classes": [],
+        "text": null,
+        "selector": "div#main > div.framer-fNkuE.framer-mbpyd2:nth-of-type(1) > div.framer-13hray4-container:nth-of-type(5) > div.ssr-variant.hidden-mbpyd2 > div.framer-jKiX4.framer-s8L53 > div.framer-ba17di:nth-of-type(1) > div.framer-nslxsm:nth-of-type(2) > div.framer-1xjg6bb-container:nth-of-type(7) > div.framer-c8SoM.framer-tgbw8 > div.framer-1usdsmx:nth-of-type(1) > div.framer-7i98ko-container:nth-of-type(1) > div > svg",
+        "bbox": {
+          "x": 221,
+          "y": 228,
+          "width": 20,
+          "height": 20
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 12125,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 15116
+        }
+      }
+    },
+    {
+      "timestamp": 13258,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 14968
+        }
+      }
+    },
+    {
+      "timestamp": 14362,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 14838.6669921875
+        }
+      }
+    },
+    {
+      "timestamp": 15281,
+      "type": "click",
+      "target": {
+        "tag": "P",
+        "id": null,
+        "classes": [
+          "framer-text",
+          "framer-styles-preset-1ejzvtk"
+        ],
+        "text": "What is Clueso?",
+        "selector": "p.framer-text.framer-styles-preset-1ejzvtk",
+        "bbox": {
+          "x": 265,
+          "y": 159,
+          "width": 268,
+          "height": 22
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        }
+      }
+    },
+    {
+      "timestamp": 16800,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 14676
+        }
+      }
+    },
+    {
+      "timestamp": 17805,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 14534
+        }
+      }
+    },
+    {
+      "timestamp": 18994,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 14314
+        }
+      }
+    },
+    {
+      "timestamp": 20207,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 14168
+        }
+      }
+    },
+    {
+      "timestamp": 21372,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 13998
+        }
+      }
+    },
+    {
+      "timestamp": 22643,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 13840
+        }
+      }
+    },
+    {
+      "timestamp": 23190,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 13738
+        }
+      }
+    },
+    {
+      "timestamp": 24442,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 13586
+        }
+      }
+    },
+    {
+      "timestamp": 25773,
+      "type": "scroll",
+      "metadata": {
+        "url": "https://www.clueso.io/",
+        "viewport": {
+          "width": 770,
+          "height": 632
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 13470.6669921875
+        }
+      }
+    }
+  ],
+  "videoPath": null,
+  "audioPath": null,
+  "processedAt": "2025-12-22T12:07:34.001Z"
+}

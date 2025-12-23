@@ -1,0 +1,51 @@
+{
+  "sessionId": "session_1766396907440_zwbtive",
+  "startTime": 1766396907456,
+  "endTime": 1766396919096,
+  "url": "http://localhost:3000/",
+  "viewport": {
+    "width": 1280,
+    "height": 632
+  },
+  "events": [
+    {
+      "timestamp": 2235,
+      "type": "click",
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "flex",
+          "min-h-screen",
+          "items-center",
+          "justify-center",
+          "bg-gradient-to-br",
+          "from-blue-50",
+          "via-purple-50",
+          "to-pink-50",
+          "font-sans",
+          "p-4"
+        ],
+        "text": "🎬Clueso DashboardScreen Recording & Instruction ViewerEnter Session IDView Recording📌 Features✓Real-time WebSocket connection✓Audio playback with transcripts✓Screen recording viewer✓Instruction execution tracking",
+        "selector": "div.flex.min-h-screen.items-center.justify-center.bg-gradient-to-br.from-blue-50.via-purple-50.to-pink-50.font-sans.p-4",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 1280,
+          "height": 632
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "http://localhost:3000/",
+        "viewport": {
+          "width": 1280,
+          "height": 632
+        }
+      }
+    }
+  ],
+  "videoPath": null,
+  "audioPath": null,
+  "processedAt": "2025-12-22T09:48:39.118Z"
+}
