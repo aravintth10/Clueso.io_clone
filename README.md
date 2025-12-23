@@ -484,15 +484,10 @@ This project is licensed under the ISC License.
 
 ---
 
-## 💜 Acknowledgments
-
-Special thanks to **[Tushar7436](https://github.com/Tushar7436)** for providing the core logic and baseline architecture. This enhanced version focuses on stability, comprehensive documentation, and a seamless developer experience.
-
----
-
 ## 📞 Support
 
 For issues, questions, or contributions:
+- Contact Aravintth-8072611599
 - 🐛 [Report a Bug](../../issues)
 - 💡 [Request a Feature](../../issues)
 - 📖 [View Documentation](#-documentation)
